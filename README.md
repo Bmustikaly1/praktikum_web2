@@ -1,2 +1,2 @@
 # praktikum_web2
-berisi code untuk tugas praktikum web
+berisi code hasil tugas praktikum web
